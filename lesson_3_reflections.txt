@@ -1,1 +1,5 @@
 hello   
+how
+why
+whom
+who
